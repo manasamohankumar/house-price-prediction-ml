@@ -4,7 +4,7 @@ This project applies machine learning techniques to predict house prices based o
 
 Accurate house price prediction is valuable in the real estate industry because it helps buyers, sellers, and property analysts estimate property value and make informed decisions.
 
-The project explores multiple machine learning models and evaluates their performance to determine the most effective predictive approach.
+The goal is to evaluate different machine learning models and evaluates their performance to determine the most effective predictive approach.
 
 ## Project Structure
 
