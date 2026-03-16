@@ -35,6 +35,10 @@ The dataset contains 21 features describing residential properties, including:
 7. geographical location features
 8. The target variable is the house price.
 
+## House Price Distribution
+
+![House Price Distribution](images/House%20Price%20Distribution.png)
+
 ## Data Preprocessing
 
 Data preprocessing is essential for building reliable machine learning models.
@@ -68,6 +72,16 @@ The models were compared using:
 2. R² (Coefficient of Determination)
 
 Different neural network architectures were tested through hyperparameter tuning and architectural adjustments.
+
+## Model Performance Comparison
+
+### Mean Squared Error Comparison
+
+![MSE Comparison](images/Mean%20Squared%20Error%20Comparison.png)
+
+### R² Comparison
+
+![R2 Comparison](images/R-squared%20comparison.png)
 
 ## Key Results
 
